@@ -1,5 +1,5 @@
 # Weather-App
-This is a Django based Weather app which is built using OpenWeatherMap API .
+This is a Django-based website in which I have used OpenWeatherMap API to make requests for weather data.
 
 To make changes to this weather-app, clone this repo into your system and then run command int the terminal -- python manage.py runserver 
 
